@@ -1,0 +1,15 @@
+# Ignore video files
+*.mp4
+
+# Ignore model files
+*.pt
+
+# Ignore outputs
+outputs/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Colab checkpoint files
+.ipynb_checkpoints/
